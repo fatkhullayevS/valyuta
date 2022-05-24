@@ -1,0 +1,11 @@
+.main{
+    background: rgb(7,0,31);
+    background: linear-gradient(90deg, rgba(7,0,31,1) 0%, rgba(9,121,103,1) 99%);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat';
+    margin-top: 10px;
+}
